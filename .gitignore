@@ -1,0 +1,20 @@
+## .gitignore
+
+```gitignore id="jlwm6m"
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.env/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
